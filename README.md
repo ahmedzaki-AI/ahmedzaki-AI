@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ahmed zaki
+- 👋 Hi, I’m Ahmed Zaki
 - 👀 I’m interested in Data Science , Machine learning and AI
 - 🌱 I’m currently learning Data analysis and python
 
